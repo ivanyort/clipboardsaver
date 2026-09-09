@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClipboardSaver.Core/ClipboardSaver.Core.csproj" />
+    <Project Path="src/ClipboardSaver.Windows/ClipboardSaver.Windows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ClipboardSaver.Core.Tests/ClipboardSaver.Core.Tests.csproj" />
+    <Project Path="tests/ClipboardSaver.Windows.Tests/ClipboardSaver.Windows.Tests.csproj" />
+  </Folder>
+</Solution>
